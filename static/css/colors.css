@@ -1,0 +1,89 @@
+/*************************************************
+ *  An Example Green Theme for Hugo Academic
+ *  Set `custom_css = ["green.css"] in `config.toml`.
+ *  Then save this file as `/static/css/green.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+a,
+a:visited,
+h3.article-title a:hover {
+    color: #c5050c;
+}
+
+a:hover {
+    color: #c5050c;
+} 
+.navbar-default .navbar-nav li a {
+    color: #ffffff
+}
+
+.navbar-default .navbar-nav li a:hover {
+    color: rgb(255,255,255);
+    Background-color: red
+}
+.btn-primary,
+.btn-primary.btn-outline {
+    color: #c5050c;
+}
+
+/* Articles */
+
+.article-title a {
+    color: #c5050c;
+}
+
+.article-metadata a {
+    color: #c5050c;
+}
+
+.article-metadata a:hover {
+    color: #c5050c;
+}
+
+/* Standard buttons */
+
+.btn-primary,
+.btn-primary.btn-outline {
+    border-color: #c5050c;
+}
+
+/* Hover buttons */
+
+.btn-primary.btn-outline:hover {
+    border-color: #c5050c;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary:visited,
+.btn-primary.btn-outline:active {
+    background-color: #c5050c;
+}
+
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #c5050c;
+  font-weight: 700;
+  background-color: white !important; /* Override Bootstrap. */
+}
+
+/* Toolbar buttons */
+
+.btn-toolbar .btn.btn-primary {
+  background: #c5050c;
+}
+
+.btn-toolbar .btn.btn-primary:hover,
+.btn-toolbar .btn.btn-primary:focus {
+  background-color: #c5050c;
+}
+
+.btn-toolbar .btn.btn-primary:active,
+.btn-toolbar .btn.btn-primary.active {
+  background-color: #c5050c;
+}
