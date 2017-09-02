@@ -19,7 +19,14 @@ Hosting is provided by <a href="https://pages.github.com">Github Pages</a>.
 {{% md %}}
 [<img style="margin:15px;" align="left" src="/img/summon.png"/>](https://what-if.xkcd.com/111/)
 
-Copyright &copy; Randall Munroe. Used according to a [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) License
+Copyright &copy; Randall Munroe. Used according to a [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) License.
 {{% md %}}
 </div>
 
+<div class="row">
+{{% md %}}
+<img style="margin:15px;" align="left" src="/img/iseffects.png"/>
+
+Image created by me for the third problem set for Econ 101 in Spring 2015 taught by [Professor Elizabeth Kelly](http://www.ssc.wisc.edu/~ekelly/econ101/).
+{{% md %}}
+</div>

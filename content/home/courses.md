@@ -11,6 +11,7 @@ widget = "custom"
 
 # Order that this section will appear in.
 weight = 60
+image = "iseffects.png"
 
 [blackfriday]
   extensions = ["hardLineBreak"]
@@ -26,4 +27,6 @@ Economics 711 / 713 - Economic Theory (graduate level)
 Economics 102 - Principles of Macroeconomics (head TA)
 Economics 101 - Principles of Microeconomics
 
-
+<sup> 
+Pages for courses before Fall 2017 can be found <a href="http://sites.google.com/site/garygbaker/teaching">here.</a>
+</sup>
