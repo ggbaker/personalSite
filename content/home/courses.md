@@ -17,16 +17,14 @@ image = "iseffects.png"
   extensions = ["hardLineBreak"]
 +++
 
-I am currently the head TA for Economics 101 for [Professor Elizabeth Kelly](http://www.ssc.wisc.edu/~ekelly/econ101/). My personal page for the course is at the link below:
-
-[Fall 2017 - Economics 101 - Principles of Microeconomics]({{< relref "teaching/f2017econ101.md" >}})
+I am currently the Business Learning Center TA assigned to Professor Gwyn Pauley's Economics 101 Course.
 
 In the past, I've been a TA for the following courses:
 
 Economics 711 / 713 - Economic Theory (graduate level)
 Economics 102 - Principles of Macroeconomics (head TA)
-Economics 101 - Principles of Microeconomics
+Economics 101 - Principles of Microeconomics (head TA)
 
 <sup> 
-Pages for courses before Fall 2017 can be found <a href="http://sites.google.com/site/garygbaker/teaching">here.</a>
+Past course pages and materials can be found [here]({{< relref "teaching/past.md" >}})
 </sup>

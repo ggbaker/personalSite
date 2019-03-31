@@ -24,14 +24,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Gary G Baker"
-  role = "PhD Student"
+  role = "PhD Student - Economics"
   organization = "University of Wisconsin-Madison"
   organization_url = "http://econ.wisc.edu"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gary.baker@wisc.edu"
   address = "Room 6470, Sewell Social Sciences Building"
-  office_hours = "Mondays and Wednesdays 11 AM - 12 PM, or by appointment"
+  office_hours = "(Spring 2019) Wednesdays 1:30 - 3:30 PM or by appointment"
   phone = ""
   skype = ""
   telegram = ""
