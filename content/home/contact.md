@@ -18,4 +18,4 @@ autolink = true
   extensions = ["hardLineBreak"]
 +++
 
-<a href="http://pool.sks-keyservers.net/pks/lookup?op=vindex&search=0x8379ee3abddb580f">``GPG Key: A209 EB0B FC05 CC91 A5EE  A75A 8379 EE3A BDDB 580F``</a>
+<a href="http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x8379EE3ABDDB580F">``GPG Key: A209 EB0B FC05 CC91 A5EE  A75A 8379 EE3A BDDB 580F``</a>
