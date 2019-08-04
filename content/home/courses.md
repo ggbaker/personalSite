@@ -17,7 +17,7 @@ image = "iseffects.png"
   extensions = ["hardLineBreak"]
 +++
 
-I am currently the Business Learning Center TA assigned to Professor Gwyn Pauley's Economics 101 Course.
+I am currently a project assistent for Professor Lones Smith. If you're looking for my past course materials, they can be found [here]({{< relref "teaching/past.md" >}}).
 
 In the past, I've been a TA for the following courses:
 
@@ -25,6 +25,4 @@ Economics 711 / 713 - Economic Theory (graduate level)
 Economics 102 - Principles of Macroeconomics (head TA)
 Economics 101 - Principles of Microeconomics (head TA)
 
-<sup> 
-Past course pages and materials can be found [here]({{< relref "teaching/past.md" >}})
-</sup>
+

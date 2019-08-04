@@ -37,7 +37,7 @@ weight = 1
 
 # About
 
-I am currently a fifth-year PhD student and teaching assistant in the Department of Economics at the University of Wisconsin-Madison. I am a theorist interested in information economics.
+I am currently a fifth-year PhD student and project assistant in the Department of Economics at the University of Wisconsin-Madison. I am a theorist interested in information economics.
 
 
 
