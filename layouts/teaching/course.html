@@ -1,0 +1,11 @@
+{{ partial "page_header.html" . }}
+
+{{ if .Params.showthedate }}
+<span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+{{ end }}
+
+    
+
+
+{{ partial "page_footer.html" . }}
+
