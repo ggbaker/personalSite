@@ -107,7 +107,7 @@ office_hours = []
 #appointment_url = "https://calendly.com"
  
 # GPG Key
-gpg_key = "0x8379ee3abddb580f"
+gpg_key = "0xE68454DAED65BC32"
 
 
 # Contact links
