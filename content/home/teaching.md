@@ -59,5 +59,6 @@ I am currently a project assistent for Professor Lones Smith. If you're looking 
 
 In the past, I've been a TA for the following courses:
 
+Economics 101 (head TA)
 Economics 711 / 713 - Economic Theory (graduate level)
 Economics 102 - Principles of Macroeconomics (head TA)

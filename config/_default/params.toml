@@ -106,8 +106,8 @@ office_hours = []
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
  
-# GPG Key
-gpg_key = "0xE68454DAED65BC32"
+# PGP Key
+pgp_key = "0xE68454DAED65BC32"
 
 
 # Contact links
