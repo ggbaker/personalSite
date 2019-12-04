@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics
+  - course: PhD, Economics
     institution: University of Wisconsin-Madison
     year: 2021 (expected)
-  - course: MS in Economics
+  - course: MS, Economics
     institution: University of Wisconsin-Madison
     year: 2017
-  - course: BA, concentration in Economics/Mathematics 
+  - course: BA, Economics/Mathematics 
     institution: New College of Florida
     year: 2014
   

@@ -7,6 +7,8 @@ tables = true
 
 This site was produced using the <a href="http://gohugo.io">Hugo</a> static site generator with the <a href="https://github.com/gcushen/hugo-academic">Academic</a> theme by <a href="https://georgecushen.com/">George Cushen</a>.
 
+Text and headings are set in <a href="https://huertatipografica.com/en">Huerta Tipográfica</a> Alegreya and Alegreya Sans respectively. Code is set in <a href="https://www.colophon-foundry.org/">Colophon</a> Space Mono. All typefaces are provided by <a href="https://fonts.google.com/">Google Fonts</a>.
+
 Hosting is provided by <a href="https://pages.github.com">Github Pages</a>.
 <br><br>
 
