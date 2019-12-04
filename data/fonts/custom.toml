@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = "Alegreya+Sans+SC:400,500|Alegreya+Sans:400,500|Alegreya:400,500i,700|Space+Mono"
+
+# Font families
+heading_font = "Alegreya Sans"
+body_font = "Alegreya"
+nav_font = "Alegreya Sans SC"
+mono_font = "Space Mono"
