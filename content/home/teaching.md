@@ -55,7 +55,7 @@ subtitle = "[![example](img/iseffects.png)](colophon)"
  css_class = ""
 +++
 
-I am currently a project assistent for Professor Lones Smith. If you're looking for my past course materials, they can be found [here]({{< relref "teaching/past.md" >}}).
+I am currently a research assistent for Professor Lones Smith. If you're looking for my past course materials, they can be found [here]({{< relref "teaching/past.md" >}}).
 
 In the past, I've been a TA for the following courses:
 

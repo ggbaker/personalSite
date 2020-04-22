@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Department of Economics, UW-Madison
-  url: "econ.wisc.edu"
+  url: "https://econ.wisc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are currently focused on the economics of information, particularly the demand for information.

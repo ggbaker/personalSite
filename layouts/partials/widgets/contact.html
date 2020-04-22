@@ -58,7 +58,7 @@
       <li>
           <i class="fa-li fas fa-key fa-2x" aria-hidden="true"></i>
           <span id="person-email">
-              {{- if $autolink }}PGP Key: <a href="https://pgp.key-server.io/search/{{ . }}"><tt>{{ . }}</tt></a>{{ else }}{{ . }}{{ end -}}
+              {{- if $autolink }}PGP Key: <a href="http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search={{ . }}"><tt>{{ . }}</tt></a>{{ else }}{{ . }}{{ end -}}
           </span>
       </li>
       {{ end }}
