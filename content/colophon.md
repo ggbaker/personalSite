@@ -20,6 +20,7 @@ Hosting is provided by <a href="https://pages.github.com">Github Pages</a>.
 {{% md %}}
 </div>
 
+
 <div class="row">
 {{% md %}}
 <img style="margin:15px;" align="left" src="/img/iseffects.png"/> Image created by me for the third problem set for Econ 101 in Spring 2015 taught by [Professor Elizabeth Kelly](http://www.ssc.wisc.edu/~ekelly/econ101/).

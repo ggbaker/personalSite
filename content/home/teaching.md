@@ -59,6 +59,7 @@ I am currently a research assistent for Professor Lones Smith. If you're looking
 
 In the past, I've been a TA for the following courses:
 
-Economics 101 - Principles of Microeconomics (head TA)
-Economics 711 / 713 - Economic Theory (graduate level)
-Economics 102 - Principles of Macroeconomics (head TA)
+- Economics 101 - Principles of Microeconomics (head TA)
+- Economics 711 / 713 - Economic Theory (graduate level)
+- Economics 102 - Principles of Macroeconomics (head TA)
+
