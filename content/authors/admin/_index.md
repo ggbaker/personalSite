@@ -18,7 +18,7 @@ organizations:
   url: "https://econ.wisc.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are currently focused on the economics of information, particularly the demand for information.
+bio: I'm an economic theory grad student at UW-Madison. I am currently (Fall 2020) on the job market.
 
 interests:
 - Economic theory
@@ -71,4 +71,11 @@ social:
 #- Visitors
 ---
 
-I am currently a dissertator in the Department of Economics at the University of Wisconsin-Madison. I am a theorist interested in information economics.
+I'm a dissertator in the Department of Economics at the University of
+Wisconsin-Madison. I'm an economic theorist interested in information
+economics and decision theory. My current research studies the demand
+and valuation of information.  
+
+I am currently on the job market and will be available for remote
+interviews by whichever method (Skype, Zoom, Discord, etc.) works best
+for you.

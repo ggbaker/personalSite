@@ -16,7 +16,7 @@ baseurl = "https://www.garygbaker.com/"
 copyright = "&copy; 2020 Gary Baker"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-105578785-1"
+# googleAnalytics = "UA-105578785-1"
 
 ############################
 ## Advanced options below ##

@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Room 6470, Sewell Social Sciences Building"}
+address = {street = "(When not remote) Room 6470, Sewell Social Sciences Building"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -252,6 +252,6 @@ plugins_js  = []
 ############################
 ## Marketing
 ############################
-[marketing]
-  google_analytics = "UA-105578785-1"
-  google_tag_manager = ""
+#[marketing]
+#  google_analytics = "UA-105578785-1"
+#  google_tag_manager = ""
