@@ -57,8 +57,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: info-consumer-theory.pdf
-url_code: ''
+url_pdf: 'info-consumer-theory.pdf'
+url_code: 'web-appendices/info-consumer-theory/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
