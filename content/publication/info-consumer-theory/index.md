@@ -62,7 +62,7 @@ url_code: 'web-appendices/info-consumer-theory/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'info-consumer-theory-slides.pdf'
 url_source: ''
 url_video: ''
 
