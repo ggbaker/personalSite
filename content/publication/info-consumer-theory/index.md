@@ -16,33 +16,38 @@ publishDate: "2017-01-01T00:00:00Z"
 #publication: "Job Market Paper"
 publication_short: "Job Market Paper"
 
-abstract: "In many natural scenarios, a decision-maker facing
-uncertainty must decide not only *how much* information to purchase, but
-also *from which* sources. Unfortunately, an understanding of the value
-of information for general information structures is notoriously
-elusive.  I characterize tradeoffs between samples from different
-sources in a setting with large information purchases where the
-probability of a mistake is small and well-described by large deviations
-theory. More specifically, in environments with finitely many possible
-underlying states, I provide an approximation for the marginal rate of
-substitution for samples from distinct information sources, valid when
-samples are sufficiently cheap (or budgets sufficiently large).  I then
-show marginal rate of substitution is given by a ratio of precision-like
-indices that depend only on properties of each information source and
-the relative proportions of each signal in the bundle. This formula
-naturally implies a particularly accurate approximation for information
-demand in constrained settings. Furthermore, because the precision of
-each signal does not depend on decision-maker characteristics, all
-decision-makers---independent of prior and payoff structure---agree on
-the relative proportions of each source in an asymptotically optimal
-bundle.  Of particular note: in environments with more than two possible
-states, interior solutions arise when the signals differ in which pairs
-of states they struggle to distinguish most. In this case, the
-asymptotically optimal bundle either occurs at a corner or at one of a
-finite number of interior kink points where the worst-case pair of
-states switches.  To illustrate these results, I consider a number of
-basic consumer theory exercises and discuss implications for information
-demand."
+abstract: "In many settings, a decision-maker facing uncertainty must
+    decide not only *how much* information to purchase, but also *from
+    which* sources.  It is already known that when uncertainty is about
+    a binary variable---there are two possible “states of the world”---a
+    decision-maker with a sufficiently large budget will spend their
+    entire budget on signals from a single source: the most precise one.
+    When there are more than two possible states of the world, however,
+    the story is different: different information sources may differ in
+    the pair of states they are worst at distinguishing, and the
+    decision-maker may therefore purchase information from different
+    sources which “cover for each others’ weaknesses.”  I characterize
+    tradeoffs between samples from different sources in a setting with
+    low costs (or large budgets), where the probability of a mistake is
+    small and well-described by large deviations theory.  I show that,
+    at large samples, the marginal rate of substitution samples from
+    distinct information sources is approximately given by the ratio of
+    precision-like indices for each source, and that the asymptotically
+    optimal bundle satisfies a maxi-min rule: it maximizes the precision
+    per dollar for the worst case pair of states.  Since the precision
+    of each signal does not depend on the characteristics of the
+    decision-maker (their prior beliefs or the payoffs of the decision
+    problem they face), all decision-makers agree on the fraction of
+    signals from each source in an asymptotically optimal
+    bundle. Different information sources with the same worst-case pair
+    of states---the two states the signal is least precisely able to
+    differentiate---are redundant, and are never demanded together; the
+    asymptotically optimal bundle occurs either at a corner, or at one
+    of a finite number of interior “kink points” where the worst-case
+    pair of states switches.  To illustrate these results, I consider a
+    number of basic consumer theory exercises and discuss implications
+    for information demand."
+  
 
 # Summary. An optional shortened abstract.
 summary: "My job market paper examines a scenario where a decision-maker
