@@ -1,5 +1,5 @@
 ---
-title: "In progress research"
+title: "Additional research projects"
 date: "2020-09-29T00:00:00Z"
 doi: ""
 
@@ -24,10 +24,7 @@ tags:
 - Decision theory
 featured: true
 
-summary: "*Bayesian foundations for an asymptotically optimal experiment design,*
-with Sam Engle\\  
-
-*Optimal fast experimentation,* with Lones Smith\\  
+summary: " *Optimal fast experimentation,* with Lones Smith\\
 
 *Bargaining with multiple buyers: evidence from eBay*
 "

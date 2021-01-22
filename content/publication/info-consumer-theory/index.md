@@ -1,6 +1,6 @@
 ---
 title: "Consumer theory for cheap information"
-date: "2020-09-29T00:00:00Z"
+date: "2020-10-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -69,7 +69,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'info-consumer-theory-slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/iKf5Wh76iMA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -92,6 +92,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:
 ---
 
+{{< youtube iKf5Wh76iMA >}}

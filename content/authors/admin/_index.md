@@ -76,6 +76,7 @@ Wisconsin--Madison. I'm an economic theorist interested in information
 economics and decision theory. My current research studies the demand
 and valuation of information.  
 
-I am currently on the job market and will be available for remote
-interviews by whichever method (Skype, Zoom, Discord, etc.) works best
-for you.
+I am currently on the job market and am available for remote
+interviews by the usual means (Skype, Zoom, etc.) including during the
+virtual [European Job
+Market](https://www.europeanjobmarketofeconomists.org/ejm-2020/).

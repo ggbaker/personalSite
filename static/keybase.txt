@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ggbaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://garygbaker.com
+  * I am ggbaker (https://keybase.io/ggbaker) on keybase.
+  * I have a public key ASAre_s71E0hniL5QZTSn-OYBSDhQzjkODaGnPwZ_9Yuuwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202b7bfb3bd44d219e22f94194d29fe3980520e14338e43836869cfc19ffd62ebb0a",
+      "host": "keybase.io",
+      "kid": "01202b7bfb3bd44d219e22f94194d29fe3980520e14338e43836869cfc19ffd62ebb0a",
+      "uid": "9649be2a4ea33a64303aa30511007119",
+      "username": "ggbaker"
+    },
+    "merkle_root": {
+      "ctime": 1611278054,
+      "hash": "522fea88bc8ff9dff60767b515d0de0c9d4d374c282f41877406700b85f8d06912bb2e9e27bca258a9e8553f3de411523b2d1771703c9f480fe1ddf8294e88f4",
+      "hash_meta": "c6267f8d2df0f3794f0022b90f81b92c5144e541c8d404af5edfd9ca3d1a0276",
+      "seqno": 18866711
+    },
+    "service": {
+      "entropy": "KQhsHc5G1YpDZUuQCJulEler",
+      "hostname": "garygbaker.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1611278066,
+  "expire_in": 504576000,
+  "prev": "b4ccc94b6646e53083b564b3ab3073c3c44d2e23c711cfbbff65fcc7ad828b2e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgK3v7O9RNIZ4i+UGU0p/jmAUg4UM45Dg2hpz8Gf/WLrsKp3BheWxvYWTESpcCCMQgtMzJS2ZG5TCDtWSzqzBzw8RNLiPHEc+7/2X8x62Ciy7EIP536zvpTS9nd9uoyTyMJgFNKBfsoC7oe8icYmi8HQYmAgHCo3NpZ8RA0+jJcb4p3gnoQMENTis7kmFQn5f6XGVHWVyzFqrCAyCm1um0SZX3caY7ueh/wOxSpi52ocvxf0mtrGODtvhMA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIByMgkBJuOnAUU/em73DPMn3Zw4dTz/vV+tmfN9n4P10o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ggbaker
+
+==================================================================
