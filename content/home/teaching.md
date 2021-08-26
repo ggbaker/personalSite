@@ -55,13 +55,15 @@ subtitle = "[![example](img/summon.png)](colophon)"
  css_class = ""
 +++
 
-I am currently a research assistent for Professor Lones Smith. If you're
-looking for my past course materials, they can be found [here](teaching/past).
-
-
 In the past, I've been a TA for the following courses:
 
 - Economics 101 - Principles of Microeconomics (head TA)
 - Economics 102 - Principles of Macroeconomics (head TA)
 - Economics 711 / 713 - Economic Theory (PhD level)
+
+You can find a portfolio including my teaching statement, selected
+evaluations, and student comments [here](teachingportfolio.pdf).
+
+If you're looking for my past course materials, they can be found
+[here](teaching/past).
 
