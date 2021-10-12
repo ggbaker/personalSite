@@ -6,7 +6,8 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+# weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = "[![example](img/summon.png)](colophon)"
@@ -55,15 +56,20 @@ subtitle = "[![example](img/summon.png)](colophon)"
  css_class = ""
 +++
 
+**Current Course:** Economics 330 - Money and Banking ([course page](teaching/f2021econ330))
+
+**Past Courses**
+
 In the past, I've been a TA for the following courses:
 
 - Economics 101 - Principles of Microeconomics (head TA)
 - Economics 102 - Principles of Macroeconomics (head TA)
 - Economics 711 / 713 - Economic Theory (PhD level)
 
-You can find a portfolio including my teaching statement, selected
-evaluations, and student comments [here](teachingportfolio.pdf).
+My past course materials can be found [here](teaching/past).
 
-If you're looking for my past course materials, they can be found
-[here](teaching/past).
+**Teaching Portfolio**
+
+You can find a portfolio including my teaching statement, selected evaluations, and student comments [here](teachingportfolio.pdf).
+
 

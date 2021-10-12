@@ -9,7 +9,7 @@ math = true
 {{% sidebar %}}
 
 **Professor:** Elizabeth Kelly<br>
-**Lecture:** TuesThurs 1:00 - 2:15 PM<br>
+**Lecture:** TuesThurs 1:00-2:15 PM<br>
 [Course Page](http://www.ssc.wisc.edu/~ekelly/econ101/)<br>
 
 **TA:** Gary Baker<br>
